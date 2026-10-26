@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <script src="work/work.js" data-redirect="https://break-english-ef694a2a2090.herokuapp.com/"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>englishtastebud — The Essential British Breakfast Guide</title>
   <meta name="description" content="Discover 3 curated, modern English breakfast recipes with englishtastebud. Minimalist, step-by-step culinary guides for the Classic Fry-Up, Royal Eggs Benedict, and Cast Iron Breakfast Hash.">
